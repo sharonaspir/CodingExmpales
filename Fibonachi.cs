@@ -3,7 +3,7 @@ using System;
 namespace Fibonachi
 {
     /// <summary>
-    ///     This program will computer Fibonachi, 
+    ///     This program will comput the Fibonachi outcome, 
     ///     And show the different run time with and with out 
     /// </summary>
     class Program
